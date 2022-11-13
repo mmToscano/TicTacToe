@@ -1,0 +1,16 @@
+#tabela {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+}
+
+div {
+    margin: auto;
+}
+
+td {
+    height: 92.667px;
+    width: 92.667px;
+    text-align: center;
+    font-size: 80px;
+}
